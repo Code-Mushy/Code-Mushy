@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am student from Ukraine, who is very interested in IT
 <!--
 **Code-Mushy/Code-Mushy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
